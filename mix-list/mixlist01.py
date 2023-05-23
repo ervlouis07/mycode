@@ -18,5 +18,5 @@ print("The last item in the list (state): " + my_list[2] )
 
 new_list = [ 5060, "80", 55, "10.0.0.1", "10.20.30.1", "ssh" ]
 
-# WHen I ssh into IP addresses 10.0.0.1 or 10.20.30.1 I am unable to ping ports 5060, 80, 0r 55.
+# When I ssh into IP addresses 10.0.0.1 or 10.20.30.1 I am unable to ping ports 5060, 80, 0r 55.
 
